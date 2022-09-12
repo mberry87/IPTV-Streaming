@@ -575,5 +575,11 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 
+#EXTINF:0 tvg-logo="#" group-title="" tvg-id="116" tvg-name="116-Rodja TV", Rodja TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
+
 
 

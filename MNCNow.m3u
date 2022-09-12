@@ -574,6 +574,9 @@ http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="" tvg-id="116" tvg-name="116-Rodja TV", Rodja TV
 https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="" tvg-id="117" tvg-name="117-Batam TV", Batam TV
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+
 
 
 

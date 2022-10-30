@@ -1002,7 +1002,7 @@ https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="TV Lokal", Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/mberry87/IPTV-Streaming/raw/main/imagecache/logo_ficomtv.png" group-title="" tvg-id="118" tvg-name="118-Ficom TV", Ficom TV
+#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://github.com/mberry87/IPTV-Streaming/raw/main/imagecache/logo_ficomtv.png", Ficom TV Tanjungpinang
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://gardarevolusi.tv/logo/logo%20web%201.png", Garda TV
@@ -1078,7 +1078,7 @@ http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXDCdOLav4IxMel1yewW1VNCmEMeouC2ysg&usqp=CAU", Sultra TV
 http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19993197_ico.png?ts=1654729324" group-title="" tvg-id="115" tvg-name="115-Tanjungpinang TV", Tanjungpinang TV
+#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19993197_ico.png?ts=1654729324", Tanjungpinang TV
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgBrURQXwDY7TdFyH6iKhNcGmfq_IkAnbKQ&usqp=CAU", TATV

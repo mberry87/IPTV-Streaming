@@ -500,20 +500,50 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 
 == ==
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies & Hiburan",HBO
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
- 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="Movies & Hiburan",HBO Cinemax HD
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
- 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies & Hiburan",HBO Family HD 
-http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
- 
-#EXTINF:-1 logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614686122-.png" group-title="Movies & Hiburan",HBO Hits HD
-http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
- 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies & Hiburan",HBO Signature HD
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Film" tvg-logo="https://i.ibb.co/L9qn2Jz/20220926-161847.png" tvg-id="HBOAsia.sg" tvg-name="HBO HD", HBO HD
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Film" tvg-logo="https://i.ibb.co/z5HmmGH/20220926-161825.png" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits HD", HBO Hits HD
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Film" tvg-logo="https://i.ibb.co/1bnnKTL/20220926-161758.png" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature HD
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Film" tvg-logo="https://i.ibb.co/GkZLVGX/20220926-161740.png" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family HD", HBO Family HD
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Film" tvg-logo="https://i.ibb.co/3hTwjV9/20220926-161144.png" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax HD", Cinemax HD
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh

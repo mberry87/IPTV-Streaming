@@ -30,7 +30,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1710835236~acl=/hls-p/ingest_204_*/*~hmac=d7b9d8fd785435fac8e2762595de4734510548d5a7042861ea035c6a21152e02/hls-p/ingest_204_240p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi 
@@ -567,19 +567,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemachi-xtra-uk.png",Cinemachi Xtra-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-== HBO Group ==
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO GRUP", ID: HBO
-http://tvkuonline.my.id:25461/riyad/riyad/412
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO GRUP", ID: HBO Family
-http://tvkuonline.my.id:25461/riyad/riyad/415
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO GRUP", ID: HBO Hits
-http://tvkuonline.my.id:25461/riyad/riyad/413
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO GRUP", ID: HBO Signature
-http://tvkuonline.my.id:25461/riyad/riyad/414
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO GRUP", ID: Cinemax
-http://tvkuonline.my.id:25461/riyad/riyad/424
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi 

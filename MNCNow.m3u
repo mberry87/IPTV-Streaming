@@ -30,7 +30,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1710835236~acl=/hls-p/ingest_204_*/*~hmac=d7b9d8fd785435fac8e2762595de4734510548d5a7042861ea035c6a21152e02/hls-p/ingest_204_240p/index.m3u8
+https://cdngb196.indihometv.com/atm/hlsv3/sctv/sctv-avc1_800000=3-mp4a_96000=2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi 
